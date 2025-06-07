@@ -12,6 +12,7 @@ FROM   products
 ORDER BY price DESC LIMIT 5
 ```
 Результат:
+
 ![Группировка](./img/05_group_by.png)
 
 #### 2. Замена пустых значений, COALESCE
@@ -26,6 +27,7 @@ ORDER BY birth_year DESC, courier_id
 ```
 
 Результат:
+
 ![Coalesce 1](./img/06_coalesce_1.png)
 ![Coalesce 2](./img/06_coalesce_2.png)
 
@@ -44,6 +46,7 @@ ORDER BY price_before_tax DESC, product_id
 ```
 
 Результат:
+
 ![Расчёт НДС](./img/07_tax_calc.png)
 
 #### 4. Фильтрация через WHERE
@@ -62,6 +65,7 @@ ORDER BY product_id
 ```
 
 Результат:
+
 ![Фильтрация WHERE](./img/08_where.png)
 
 #### 5. Дополнительная фильтрация через LIKE
@@ -121,7 +125,9 @@ ORDER BY order_id
 ```
 
 Результат:
+
 ![Фильтрация DATE_PART 1](./img/11_date_part_filtering_1.png)
+
 ![Фильтрация DATE_PART 2](./img/11_date_part_filtering_2.png)
 
 Задача посложнее: из таблицы `user_actions` получить информацию о всех отменах заказов, которые пользователи совершали в течение августа 2022 года по средам с 12:00 до 15:59.
@@ -144,6 +150,7 @@ ORDER BY order_id DESC
 ```
 
 Результат:
+
 ![Фильтрация DATE_PART 3](./img/11_date_part_filtering_3.png)
 
 #### 8. Условная логика через CASE WHEN
@@ -182,4 +189,6 @@ ORDER BY price_before_tax DESC, product_id
 ```
 
 Результат:
+
 ![Условная логика через CASE WHEN](./img/12_case_when_filtering.png)
+
