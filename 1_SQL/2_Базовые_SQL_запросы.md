@@ -89,6 +89,7 @@ ORDER BY product_id
 ```
 
 Результат:
+
 ![Фильтрация LIKE](./img/09_like_filtering.png)
 
 #### 6. Дополнительная фильтрация через IN и BETWEEN
