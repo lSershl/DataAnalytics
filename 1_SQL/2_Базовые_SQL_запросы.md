@@ -109,6 +109,7 @@ ORDER BY order_id desc
 ```
 
 Результат:
+
 ![Фильтрация IN BETWEEN](./img/10_in_between_filtering.png)
 
 #### 7. Фильтрация по части даты
