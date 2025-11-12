@@ -1,0 +1,8 @@
+{"timestamp":"2025-11-10T07:54:19.154978Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:54:51.691247Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:55:23.082906Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:55:54.471607Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:56:25.876290Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:56:57.307401Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:57:28.829959Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2025-11-10T07:58:00.334820Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/salaries_eda.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}

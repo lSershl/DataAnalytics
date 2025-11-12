@@ -1,0 +1,1 @@
+{"timestamp":"2025-11-12T07:01:41.334125Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/4_fct_avg_day_earthquake_mag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
