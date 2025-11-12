@@ -1,1 +1,0 @@
-{"timestamp":"2025-11-12T07:01:42.552187Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/2_raw_from_s3_to_pg.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
