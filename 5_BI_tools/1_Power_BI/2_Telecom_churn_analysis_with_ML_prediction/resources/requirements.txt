@@ -1,0 +1,8 @@
+sqlalchemy==2.0.44
+psycopg2==2.9.11
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.7
+seaborn==0.13.2
+joblib==1.5.2
+scikit-learn==1.7.2
